@@ -1,0 +1,18 @@
+(cl:in-package Hexapod_Bringup-msg)
+(cl:export '(HEADER_BYTE-VAL
+          HEADER_BYTE
+          RIGHT_VERTICAL_JOY_BYTE-VAL
+          RIGHT_VERTICAL_JOY_BYTE
+          RIGHT_HORIZONTAL_JOY_BYTE-VAL
+          RIGHT_HORIZONTAL_JOY_BYTE
+          LEFT_VERTICAL_JOY_BYTE-VAL
+          LEFT_VERTICAL_JOY_BYTE
+          LEFT_HORIZONTAL_JOY_BYTE-VAL
+          LEFT_HORIZONTAL_JOY_BYTE
+          BUTTON_BYTE-VAL
+          BUTTON_BYTE
+          END_BYTE-VAL
+          END_BYTE
+          CHECKSUM_BYTE-VAL
+          CHECKSUM_BYTE
+))

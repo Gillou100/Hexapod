@@ -1,0 +1,14 @@
+<package>
+  <description brief="Hexapod_Bringup">
+
+     Hexapod_Bringup
+
+  </description>
+  <author>Antoine Bedhome</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/Hexapod_Bringup</url>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+
+</package>

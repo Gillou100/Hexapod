@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/antoine/Stacks/Packages/Hexapod_Bringup/build/devel/setup.sh

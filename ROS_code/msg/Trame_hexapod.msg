@@ -1,0 +1,8 @@
+uint8 header_byte
+uint8 right_vertical_joy_byte
+uint8 right_horizontal_joy_byte
+uint8 left_vertical_joy_byte
+uint8 left_horizontal_joy_byte
+uint8 button_byte
+uint8 end_byte
+uint8 checksum_byte
