@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libgtest.so -o /home/ubuntu/Stacks/Packages/hexapod/lib/libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/ubuntu/Stacks/Packages/hexapod/build/gtest/gtest/src -lpthread -Wl,-rpath,/home/ubuntu/Stacks/Packages/hexapod/build/gtest/gtest/src 

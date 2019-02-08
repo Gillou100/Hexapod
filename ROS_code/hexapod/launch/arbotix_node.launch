@@ -1,0 +1,6 @@
+<launch>
+  <group>
+    <node name='arbotix' pkg='hexapod' type='arbotix_node.py'/>
+    <node name='socket' pkg='hexapod' type='socket_node.py'/>
+  </group>
+</launch>
